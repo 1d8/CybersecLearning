@@ -2,6 +2,7 @@
 Resource Dump For Learning Cybersec-related Concepts
 
 <h1>Coding Books</h1>
+
 -Python Data Science Handbook
 
 -Python Machine Learning
@@ -35,7 +36,9 @@ Resource Dump For Learning Cybersec-related Concepts
 -Absolute FreeBSD: The Complete Guide to FreeBSD
 
 
+
 <h1>Pentesting Books</h1>
+
 -Hands on Pentesting w/Python
 
 -Kali Linux Revealed
@@ -73,6 +76,8 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Practical Malware Analysis
 
+
+
 <h1>Cybersec Story Books</h1>
 -At War [Shane Harris]
 
@@ -86,5 +91,48 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Hackers & Painters: The Ideas From the Digital Age
 
+
+
 <h1>Cryptocurrency Books</h1>
 -Bitcoin & Cryptocurrency Technologies
+
+
+<h1>Online Learning Resources</h1>
+
+-https://www.classcentral.com/
+
+-https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#
+
+-https://github.com/sushilshinde/ebooks
+
+-https://tutorials.cyberaces.org/tutorials.html
+
+-https://github.com/bugcrowd/bugcrowd_university
+
+-https://github.com/bkimminich/juice-shop
+
+-https://explainshell.com/
+
+-https://www.reddit.com/r/netsec/wiki/start#wiki_full_online_courses
+
+
+<h1>Hardware Resources</h1>
+
+-https://github.com/virtualabs/btlejack
+
+-https://www.fcc.gov/oet/ea/fccid
+
+-https://samy.pl/
+
+-https://www.simform.com/iot-bluetooth-security-vulnerabilities/
+
+
+<h1>Pentesting Online Resources</h1>
+
+-https://www.exploit-db.com/
+
+-https://www.cvedetails.com/
+
+-https://gchq.github.io/CyberChef/
+
+-
