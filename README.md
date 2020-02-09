@@ -91,6 +91,18 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/
 
+-https://philippeharewood.com/
+
+-https://docs.splunk.com/Documentation/Splunk/8.0.1/Data/Configuredatetimexml
+
+-https://www.routerfreak.com/top-10-certifications-network-engineers/
+
+-https://community.turgensec.com/ssh-hacking-guide/
+
+-https://objective-see.com/blog/blog_0x52.html
+
+-https://securityaffairs.co/wordpress/77442/hacking/weaponized-microsoft-office-documents.html
+
 
 
 <h1>Networking Books</h1>
@@ -139,6 +151,10 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://clark.center/
 
+-https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational
+
+-https://open.edu/openlearn/
+
 
 
 <h1>Hardware Resources</h1>
@@ -167,6 +183,19 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://www.irongeek.com/xss-sql-injection-fuzzing-barcode-generator.php
 
+-https://github.com/hfiref0x/UACME
+
+-https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack
+
+-https://github.com/enaqx/awesome-pentest
+
+
+
+<h1>Mobile Security Resources</h1>
+
+-https://www.github.com/vaib25vicky/awesome-mobile-security
+
+
 
 <h1>Reverse Engineering Resources</h1>
 
@@ -190,8 +219,28 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://www.youtube.com/user/jstrosch
 
+-https://github.com/ivRodriguezCA/RE-IOS-Apps
+
+
+
+<h1>Privacy-Oriented Alternatives To Software</h1>
+
+-https://prism-break.org/en/categories/
+
 
 
 <h1>Misc.</h1>
 
 -https://www.gnu.org/software/pspp/ (IBM SPSS's Alternative)
+
+-https://digitaldefynd.com/best-it-support-courses-certification-training/
+
+-https://openlibrary.org/
+
+-https://application.security/free-application-security-training
+
+-https://www.wikihow.com/Move-from-Windows-to-Linux
+
+-http://the-gi-diet.org/lowgifoods/
+
+-https://www.examtopics.com/exams/comptia/
