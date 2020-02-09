@@ -25,15 +25,21 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Designing Data Intensive Applications
 
+-Developing 2D Games with Unity: Independent Game Programming with C#
+
+-Learning React Native: Building Native Mobile Apps with JavaScript
 
 
-<h1>Linux Books</h1>
+
+<h1>Operating System Books</h1>
 
 -Linux Firewalls: Attack Detection & Response w/iptables, psad, & fwsnort
 
 -How Linux Works: What Every Superuser Should Know
 
 -Absolute FreeBSD: The Complete Guide to FreeBSD
+
+-Modern Operating Systems
 
 
 
@@ -62,6 +68,7 @@ Resource Dump For Learning Cybersec-related Concepts
 -Mobile Application Hacker's Handbook
 
 <h1>Defensive Security Books</h1>
+
 -Computer Security [art & science]
 
 -Cybersecurity for Beginners 2nd Edition
@@ -78,7 +85,22 @@ Resource Dump For Learning Cybersec-related Concepts
 
 
 
+<h1>Technical Readings</h1>
+
+-https://github.com/ctfs/write-ups-2014
+
+-https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/
+
+
+
+<h1>Networking Books</h1>
+
+-The Art of Network Architecture: Business-Driven Design (Networking Technology) 1st Edition
+
+
+
 <h1>Cybersec Story Books</h1>
+
 -At War [Shane Harris]
 
 -Tribe of Hackers
@@ -115,6 +137,9 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://www.reddit.com/r/netsec/wiki/start#wiki_full_online_courses
 
+-https://clark.center/
+
+
 
 <h1>Hardware Resources</h1>
 
@@ -126,6 +151,9 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://www.simform.com/iot-bluetooth-security-vulnerabilities/
 
+-Black Hat Physical Device Security: Exploiting Hardware and Software
+
+
 
 <h1>Pentesting Online Resources</h1>
 
@@ -135,4 +163,35 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://gchq.github.io/CyberChef/
 
--
+-https://www.immuniweb.com/websec/#latest
+
+-https://www.irongeek.com/xss-sql-injection-fuzzing-barcode-generator.php
+
+
+<h1>Reverse Engineering Resources</h1>
+
+-https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/
+
+-https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/
+
+-https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/
+
+-https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/
+
+-https://malwareunicorn.org/#/resources
+
+-https://torus.company/writings/RE4B-EN.pdf
+
+-https://tuts4you.com/download/2876/
+
+-https://godbolt.org/
+
+-https://0xevilc0de.com/category/video-series/
+
+-https://www.youtube.com/user/jstrosch
+
+
+
+<h1>Misc.</h1>
+
+-https://www.gnu.org/software/pspp/ (IBM SPSS's Alternative)
