@@ -29,6 +29,8 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Learning React Native: Building Native Mobile Apps with JavaScript
 
+-NSA Python course - https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
+
 
 
 <h1>Operating System Books</h1>
