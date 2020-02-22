@@ -261,4 +261,4 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Wiki's Educational Resource Corner - https://en.wikiversity.org/wiki/Wikiversity:Main_Page
 
--
+-Open source (free online version) txtbooks - https://openstax.org/
