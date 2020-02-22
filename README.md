@@ -256,3 +256,5 @@ Resource Dump For Learning Cybersec-related Concepts
 -https://www.examtopics.com/exams/comptia/
 
 -https://www.studocu.com/en (lecture notes for diff courses)
+
+-University notes (CS-centered) - https://github.com/alptheexplorer/epflLectureNotes
