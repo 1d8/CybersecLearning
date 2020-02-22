@@ -258,3 +258,7 @@ Resource Dump For Learning Cybersec-related Concepts
 -https://www.studocu.com/en (lecture notes for diff courses)
 
 -University notes (CS-centered) - https://github.com/alptheexplorer/epflLectureNotes
+
+-Wiki's Educational Resource Corner - https://en.wikiversity.org/wiki/Wikiversity:Main_Page
+
+-
