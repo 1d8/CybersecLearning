@@ -223,6 +223,14 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://github.com/ivRodriguezCA/RE-IOS-Apps
 
+-http://repository.root-me.org/Reverse%20Engineering/EN%20-%20Reverse%20Engineering%20for%20Beginners%20-%20Dennis%20Yurichev.pdf
+
+-https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
+
+-https://www.megabeets.net/
+
+-https://gist.github.com/jarun/ea47cc31f1b482d5586138472139d090
+
 
 
 <h1>Privacy-Oriented Alternatives To Software</h1>
@@ -246,3 +254,5 @@ Resource Dump For Learning Cybersec-related Concepts
 -http://the-gi-diet.org/lowgifoods/
 
 -https://www.examtopics.com/exams/comptia/
+
+-https://www.studocu.com/en (lecture notes for diff courses)
