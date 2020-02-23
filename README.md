@@ -247,6 +247,10 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -The Antivirus Hacker's Handbook
 
+-Binary deobfuscation: https://github.com/malrev/ABD/blob/master/README.md
+
+-
+
 
 
 
@@ -286,4 +290,6 @@ Resource Dump For Learning Cybersec-related Concepts
 -Google resource doc by netsecfocus - https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/htmlview#
 
 -Udemy courses - http://freecoursesite.com
+
+-College books - https://m.imgur.com/gallery/y7KXKyG
 
