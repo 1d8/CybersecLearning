@@ -293,3 +293,5 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -College books - https://m.imgur.com/gallery/y7KXKyG
 
+-Awesome Note Taking Software - https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux
+
