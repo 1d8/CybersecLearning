@@ -231,6 +231,24 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://gist.github.com/jarun/ea47cc31f1b482d5586138472139d090
 
+-Assembly Tutorial - https://cs.lmu.edu/~ray/notes/nasmtutorial/
+
+-MIPS Assembly Playlist - https://m.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A
+
+-ARM Assembly Tutorial - https://azeria-labs.com/writing-arm-assembly-part-1/
+
+-Practical Reverse Engineering: x86, 64, ARM by Bruce Dang
+
+-Rootkits & Bootkits (Nostarch)
+
+-The Art of Memory Forensics
+
+-Practical Binary Analysis
+
+-The Antivirus Hacker's Handbook
+
+
+
 
 
 <h1>Privacy-Oriented Alternatives To Software</h1>
@@ -264,3 +282,8 @@ Resource Dump For Learning Cybersec-related Concepts
 -Open source (free online version) txtbooks - https://openstax.org/
 
 - Open source degrees - https://github.com/ossu/
+
+-Google resource doc by netsecfocus - https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/htmlview#
+
+-Udemy courses - http://freecoursesite.com
+
