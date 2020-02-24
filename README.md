@@ -249,7 +249,6 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Binary deobfuscation: https://github.com/malrev/ABD/blob/master/README.md
 
--
 
 
 
@@ -295,3 +294,4 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Awesome Note Taking Software - https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux
 
+-Hacking Resources - https://github.com/Hack-with-Github/Awesome-Hacking
