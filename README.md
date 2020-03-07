@@ -225,7 +225,7 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -http://repository.root-me.org/Reverse%20Engineering/EN%20-%20Reverse%20Engineering%20for%20Beginners%20-%20Dennis%20Yurichev.pdf
 
--https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
+-GDB cheatsheet: https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
 
 -https://www.megabeets.net/
 
@@ -249,9 +249,18 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Binary deobfuscation: https://github.com/malrev/ABD/blob/master/README.md
 
+-Malware analysis resource dump: https://github.com/rshipp/awesome-malware-analysis
+
+-Reverse engineering resource dump: https://github.com/tylerha97/awesome-reversing
+
+-Malware analysis course: https://class.malware.re/
+
+-Ghidra course: https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Beginner
+
+-Beginning REing book: http://repository.root-me.org/Reverse%20Engineering/EN%20-%20Reverse%20Engineering%20for%20Beginners%20-%20Dennis%20Yurichev.pdf
 
 
-
+-REing blog: https://mrt4ntr4.github.io/categories
 
 
 <h1>Privacy-Oriented Alternatives To Software</h1>
