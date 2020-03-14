@@ -253,7 +253,9 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Reverse engineering resource dump: https://github.com/tylerha97/awesome-reversing
 
--Malware analysis course: https://class.malware.re/
+-Malware analysis course (Cincinati Uni 2020): https://class.malware.re/
+
+-Malware analysis course (Cincinati Uni 2019): http://class.snusbaum.com/
 
 -Ghidra course: https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Beginner
 
