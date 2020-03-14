@@ -304,3 +304,5 @@ Resource Dump For Learning Cybersec-related Concepts
 -Awesome Note Taking Software - https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux
 
 -Hacking Resources - https://github.com/Hack-with-Github/Awesome-Hacking
+
+-MIT Open Courseware - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/ (video lectures, lecture notes, etc)
