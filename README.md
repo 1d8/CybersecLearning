@@ -215,7 +215,7 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://tuts4you.com/download/2876/
 
--https://godbolt.org/
+-https://godbolt.org/ (online IDE with assembly output side-by-side)
 
 -https://0xevilc0de.com/category/video-series/
 
