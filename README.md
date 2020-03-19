@@ -265,7 +265,7 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Malware Analysis tools set up: https://www.fireeye.com/blog/threat-research/2018/11/flare-vm-update.html
 
--Malware Analysis VM set up: 
+-Malware Analysis VM set up: https://github.com/1d8/CybersecLearning/blob/master/MalwareLabSetup.pdf
 
 <h1>Privacy-Oriented Alternatives To Software</h1>
 
