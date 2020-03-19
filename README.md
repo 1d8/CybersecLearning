@@ -261,9 +261,11 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Beginning REing book: http://repository.root-me.org/Reverse%20Engineering/EN%20-%20Reverse%20Engineering%20for%20Beginners%20-%20Dennis%20Yurichev.pdf
 
-
 -REing blog: https://mrt4ntr4.github.io/categories
 
+-Malware Analysis tools set up: https://www.fireeye.com/blog/threat-research/2018/11/flare-vm-update.html
+
+-Malware Analysis VM set up: 
 
 <h1>Privacy-Oriented Alternatives To Software</h1>
 
