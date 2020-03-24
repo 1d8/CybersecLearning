@@ -105,6 +105,17 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -https://securityaffairs.co/wordpress/77442/hacking/weaponized-microsoft-office-documents.html
 
+-github.com/rednaga/training
+
+-github.com/strazzere/android-unpacker/blob/master/AHPL0.pdf
+
+-github.com/strazzere/anti-emulator/tree/master/slides
+
+-droidsec.org/wiki/#whitepapers
+
+-androidcracking.blogspot.com
+
+-unicorn-engine.org
 
 
 <h1>Networking Books</h1>
