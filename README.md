@@ -278,6 +278,12 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Malware Analysis VM set up: https://github.com/1d8/CybersecLearning/blob/master/MalwareLabSetup.pdf
 
+-Practical malware analysis course: https://samsclass.info/126/126_S17.shtml
+
+-RE book (1k pages): https://torus.company/9f0911c0a4bb7d20eb8bab286a2c109fa85c44c6/RE4B-EN.pdf
+
+-Malware samples (zeltser): https://zeltser.com/malware-sample-sources/
+
 <h1>Privacy-Oriented Alternatives To Software</h1>
 
 -https://prism-break.org/en/categories/
