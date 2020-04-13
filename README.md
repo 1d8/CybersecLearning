@@ -314,7 +314,7 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Open source (free online version) txtbooks - https://openstax.org/
 
-- Open source degrees - https://github.com/ossu/
+-Open source degrees - https://github.com/ossu/
 
 -Google resource doc by netsecfocus - https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/htmlview#
 
@@ -327,3 +327,5 @@ Resource Dump For Learning Cybersec-related Concepts
 -Hacking Resources - https://github.com/Hack-with-Github/Awesome-Hacking
 
 -MIT Open Courseware - https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/ (video lectures, lecture notes, etc)
+
+-OSINT related podcasts - https://www.learnallthethings.net/creepyosint
