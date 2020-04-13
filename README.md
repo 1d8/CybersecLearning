@@ -284,6 +284,8 @@ Resource Dump For Learning Cybersec-related Concepts
 
 -Malware samples (zeltser): https://zeltser.com/malware-sample-sources/
 
+-Assembly course (text): https://revers.engineering/applied-re-accelerated-assembly-p1/
+
 <h1>Privacy-Oriented Alternatives To Software</h1>
 
 -https://prism-break.org/en/categories/
