@@ -152,6 +152,7 @@
 * [Prism break](https://prism-break.org/en/categories/)
 
 ## Misc.
+* [Different cybersec learning pathways](https://twitter.com/Fox0x01/status/1238636233649250304)
 * https://www.gnu.org/software/pspp/ (IBM SPSS's Alternative)
 * https://digitaldefynd.com/best-it-support-courses-certification-training/
 * https://openlibrary.org/
