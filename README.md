@@ -152,18 +152,18 @@
 
 ## Misc.
 * https://www.gnu.org/software/pspp/ (IBM SPSS's Alternative)
-* https://digitaldefynd.com/best* it* support* courses* certification* training/
+* https://digitaldefynd.com/best-it-support-courses-certification-training/
 * https://openlibrary.org/
-* https://application.security/free* application* security* training
-* https://www.wikihow.com/Move* from* Windows* to* Linux
-* http://the* gi* diet.org/lowgifoods/
+* https://application.security/free-application-security-training
+* https://www.wikihow.com/Move-from-Windows-to-Linux
+* http://the-gi-diet.org/lowgifoods/
 * https://www.examtopics.com/exams/comptia/
-* https://www.studocu.com/en (lecture notes for diff courses)
-* University notes (CS-centered) -ttps://github.com/alptheexplorer/epflLectureNotes
-* Wiki's Educational Resource Corner -https://en.wikiversity.org/wiki/Wikiversity:Main_Page
-* Open source (free online version) txtbooks -https://openstax.org/
-* Open source degrees * https://github.com/ossu/
-* [Google resource doc by netsecfocus](https://docs.google.com/spreadsheets/d/12bT8APhWsLP8mBtWCYu4MLftwG1cPmIL25AEBtXDno/htmlview#]
+* [Lecture notes for diff courses](https://www.studocu.com/en)
+* [University notes CS-centered](https://github.com/alptheexplorer/epflLectureNotes)
+* [Wiki's Educational Resource Corner](https://en.wikiversity.org/wiki/Wikiversity:Main_Page)
+* [Open source books](https://openstax.org/)
+* [Open source degrees](https://github.com/ossu/)
+* [Google resource doc by netsecfocus](https://docs.google.com/spreadsheets/d/12bT8APhWsLP8mBtWCYu4MLftwG1cPmIL25AEBtXDno/htmlview#)
 * [Udemy courses](http://freecoursesite.com)
 * [College books](https://m.imgur.com/gallery/y7KXKyG)
 * [Awesome Note Taking Software](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
