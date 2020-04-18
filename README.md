@@ -1,27 +1,18 @@
 # CybersecLearning
+## Resource dump for learning cybersec-related concepts
 Resource Dump For Learning Cybersec-related Concepts
 
-<h1>Coding Books</h1>
-
--Python Data Science Handbook
-
--Python Machine Learning
-
--Python for Finance
-
--Think like a Programmer (Anton Spraul)
-
--Windows Powershell in Action
-
--Learn Windows Powershell in a Month of Lunches
-
--Data Science from Scratch
-
--Perl One-Liners: 130 Programs That Get Things Done
-
--Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, & Unix Systems
-
--Javascript the Definitive Guid
+# Coding books
+* Python Data Science Handbook
+* Python Machine Learning
+* Python for Finance
+* Think like a Programmer (Anton Spraul)
+* Windows Powershell in Action
+* Learn Windows Powershell in a Month of Lunches
+* Data Science from Scratch
+* Perl One-Liners: 130 Programs That Get Things Done
+* Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, & Unix Systems
+* Javascript the Definitive Guid
 
 -Designing Data Intensive Applications
 
