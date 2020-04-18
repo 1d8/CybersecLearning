@@ -1,8 +1,7 @@
 # CybersecLearning
 ## Resource dump for learning cybersec-related concepts
-Resource Dump For Learning Cybersec-related Concepts
 
-# Coding books
+# Coding books & courses
 * Python Data Science Handbook
 * Python Machine Learning
 * Python for Finance
@@ -13,18 +12,12 @@ Resource Dump For Learning Cybersec-related Concepts
 * Perl One-Liners: 130 Programs That Get Things Done
 * Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, & Unix Systems
 * Javascript the Definitive Guid
+* Designing Data Intensive Applications
+* Developing 2D Games with Unity: Independent Game Programming with C#
+* Learning React Native: Building Native Mobile Apps with JavaScript
+* [NSA Python course](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
 
--Designing Data Intensive Applications
-
--Developing 2D Games with Unity: Independent Game Programming with C#
-
--Learning React Native: Building Native Mobile Apps with JavaScript
-
--NSA Python course - https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf
-
-
-
-<h1>Operating System Books</h1>
+#Operating System Books
 
 -Linux Firewalls: Attack Detection & Response w/iptables, psad, & fwsnort
 
