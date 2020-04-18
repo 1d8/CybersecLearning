@@ -22,7 +22,7 @@
 * Absolute FreeBSD: The Complete Guide to FreeBSD
 * Modern Operating Systems
 
-## Pentesting Books
+## Pentesting Resources
 * Hands on Pentesting w/Python
 * Kali Linux Revealed
 * CEH Certification books
@@ -34,6 +34,7 @@
 * Hands on AWS Penetration Testing w/Kali Linux
 * Learning Windows Penetration Testing using Kali Linux
 * Mobile Application Hacker's Handbook
+* [Pentest blog](https://www.hackingarticles.in/penetration-testing/)
 
 ## Defensive Security Books
 * Computer Security [art & science]
@@ -117,15 +118,13 @@
 * [Getting started](https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/)
 * [Exploit dev learning roadmap](https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/)
 * [Malware unicorn resources](https://malwareunicorn.org/#/resources)
-* https://torus.company/writings/RE4B-EN.pdf
-* https://tuts4you.com/download/2876/
 * [online IDE with assembly output & C side-by-side](https://godbolt.org/)
-* https://0xevilc0de.com/category/video-series/
-* https://www.youtube.com/user/jstrosch
+* [Helpful RE related videos](https://0xevilc0de.com/category/video-series/)
+* [RE youtube vids](https://www.youtube.com/user/jstrosch)
 * [REing IOS apps](https://github.com/ivRodriguezCA/RE-IOS-Apps)
 * [GDB cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
-* https://www.megabeets.net/
-* https://gist.github.com/jarun/ea47cc31f1b482d5586138472139d090
+* [RE blog](https://www.megabeets.net/)
+* [Guide to disassemble](https://gist.github.com/jarun/ea47cc31f1b482d5586138472139d090)
 * [Assembly Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
 * [MIPS Assembly Playlist](https://m.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A)
 * [ARM Assembly Tutorial](https://azeria-labs.com/writing-arm-assembly-part-1)
