@@ -8,7 +8,7 @@
 * Windows Powershell in Action
 * Learn Windows Powershell in a Month of Lunches
 * Data Science from Scratch
-* Perl One* Liners: 130 Programs That Get Things Done
+* Perl One-Liners: 130 Programs That Get Things Done
 * Wicked Cool Shell Scripts: 101 Scripts for Linux, OS X, & Unix Systems
 * Javascript the Definitive Guid
 * Designing Data Intensive Applications
@@ -111,84 +111,46 @@
 * https://www.github.com/vaib25vicky/awesome-mobile-security
 
 ## Reverse Engineering Resources
-* https://prezi.com/a5tm* lf0879* /reverse* engineering* 101* nyupoly* 2010/
-
-* https://prezi.com/e5a2tumdqocj/reverse* engineering* 102* nyupoly* 2010/
-
+* https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/
+* https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/
 * https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/
-
 * https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/
-
 * https://malwareunicorn.org/#/resources
-
-* https://torus.company/writings/RE4B* EN.pdf
-
+* https://torus.company/writings/RE4B-EN.pdf
 * https://tuts4you.com/download/2876/
-
-* https://godbolt.org/ (online IDE with assembly output side* by* side)
-
-* https://0xevilc0de.com/category/video* series/
-
+* https://godbolt.org/ (online IDE with assembly output side-by-side)
+* https://0xevilc0de.com/category/video-series/
 * https://www.youtube.com/user/jstrosch
-
-* https://github.com/ivRodriguezCA/RE* IOS* Apps
-
-* http://repository.root* me.org/Reverse%20Engineering/EN%20* %20Reverse%20Engineering%20for%20Beginners%20* %20Dennis%20Yurichev.pdf
-
+* https://github.com/ivRodriguezCA/RE-IOS-Apps
+* http://repository.root-me.org/Reverse%20Engineering/EN%20-%20Reverse%20Engineering%20for%20Beginners%20- %20Dennis%20Yurichev.pdf
 * GDB cheatsheet: https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
-
 * https://www.megabeets.net/
-
 * https://gist.github.com/jarun/ea47cc31f1b482d5586138472139d090
-
-* Assembly Tutorial * https://cs.lmu.edu/~ray/notes/nasmtutorial/
-
-* MIPS Assembly Playlist * https://m.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf* o97ddfpvPFuNa5A
-
-* ARM Assembly Tutorial * https://azeria* labs.com/writing* arm* assembly* part* 1/
-
+* [Assembly Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
+* [MIPS Assembly Playlist](https://m.youtube.com/playlist?list=PL5b07qlmA3P6zUdDf-o97ddfpvPFuNa5A)
+* [ARM Assembly Tutorial](https://azeria-labs.com/writing-arm-assembly-part-1)
 * Practical Reverse Engineering: x86, 64, ARM by Bruce Dang
-
 * Rootkits & Bootkits (Nostarch)
-
 * The Art of Memory Forensics
-
 * Practical Binary Analysis
-
 * The Antivirus Hacker's Handbook
-
-* Binary deobfuscation: https://github.com/malrev/ABD/blob/master/README.md
-
-* Malware analysis resource dump: https://github.com/rshipp/awesome* malware* analysis
-
-* Reverse engineering resource dump: https://github.com/tylerha97/awesome* reversing
-
-* Malware analysis course (Cincinati Uni 2020): https://class.malware.re/
-
-* Malware analysis course (Cincinati Uni 2019): http://class.snusbaum.com/
-
-* Ghidra course: https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Beginner
-
-* Beginning REing book: http://repository.root* me.org/Reverse%20Engineering/EN%20* %20Reverse%20Engineering%20for%20Beginners%20* %20Dennis%20Yurichev.pdf
-
-* REing blog: https://mrt4ntr4.github.io/categories
-
-* Malware Analysis tools set up: https://www.fireeye.com/blog/threat* research/2018/11/flare* vm* update.html
-
-* Malware Analysis VM set up: https://github.com/1d8/CybersecLearning/blob/master/MalwareLabSetup.pdf
-
-* Practical malware analysis course: https://samsclass.info/126/126_S17.shtml
-
-* RE book (1k pages): https://torus.company/9f0911c0a4bb7d20eb8bab286a2c109fa85c44c6/RE4B* EN.pdf
-
-* Malware samples (zeltser): https://zeltser.com/malware* sample* sources/
-
-* Assembly course (text): https://revers.engineering/applied* re* accelerated* assembly* p1/
+* [Binary deobfuscation](https://github.com/malrev/ABD/blob/master/README.md)
+* [Malware analysis resource dump](https://github.com/rshipp/awesome-malware-analysis)
+* [Reverse engineering resource dump](https://github.com/tylerha97/awesome-reversing)
+* [Malware analysis course-Cincinati Uni 2020](https://class.malware.re/)
+* [Malware analysis course-Cincinati Uni 2019](http://class.snusbaum.com/)
+* [Ghidra course](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Beginner)
+* [Beginning REing book](http://repository.root-me.org/Reverse%20Engineering/EN%20- %20Reverse%20Engineering%20for%20Beginners%20-%20Dennis%20Yurichev.pdf)
+* [REing blog](https://mrt4ntr4.github.io/categories)
+* [Malware Analysis tools set up](https://www.fireeye.com/blog/threat-research/2018/11/flare-vm-update.html)
+* [Malware Analysis VM set up](https://github.com/1d8/CybersecLearning/blob/master/MalwareLabSetup.pdf)
+* [Practical malware analysis course](https://samsclass.info/126/126_S17.shtml)
+* [RE book 1k pages](https://torus.company/9f0911c0a4bb7d20eb8bab286a2c109fa85c44c6/RE4B-EN.pdf)
+* [Malware samples zetsler](https://zeltser.com/malware-sample-sources/)
+* [Assembly course - text](https://revers.engineering/applied-re-accelerated-assembly-p1/)
 
 ## Privacy-Oriented Alternatives To Software
-* https://prism-break.org/en/categories/
-
-
+* [Prism break](https://prism-break.org/en/categories/)
 
 ## Misc.
 * https://www.gnu.org/software/pspp/ (IBM SPSS's Alternative)
