@@ -122,8 +122,7 @@
 * https://0xevilc0de.com/category/video-series/
 * https://www.youtube.com/user/jstrosch
 * https://github.com/ivRodriguezCA/RE-IOS-Apps
-* http://repository.root-me.org/Reverse%20Engineering/EN%20-%20Reverse%20Engineering%20for%20Beginners%20- %20Dennis%20Yurichev.pdf
-* GDB cheatsheet: https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf
+* [GDB cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 * https://www.megabeets.net/
 * https://gist.github.com/jarun/ea47cc31f1b482d5586138472139d090
 * [Assembly Tutorial](https://cs.lmu.edu/~ray/notes/nasmtutorial/)
@@ -140,7 +139,6 @@
 * [Malware analysis course-Cincinati Uni 2020](https://class.malware.re/)
 * [Malware analysis course-Cincinati Uni 2019](http://class.snusbaum.com/)
 * [Ghidra course](https://github.com/NationalSecurityAgency/ghidra/tree/master/GhidraDocs/GhidraClass/Beginner)
-* [Beginning REing book](http://repository.root-me.org/Reverse%20Engineering/EN%20- %20Reverse%20Engineering%20for%20Beginners%20-%20Dennis%20Yurichev.pdf)
 * [REing blog](https://mrt4ntr4.github.io/categories)
 * [Malware Analysis tools set up](https://www.fireeye.com/blog/threat-research/2018/11/flare-vm-update.html)
 * [Malware Analysis VM set up](https://github.com/1d8/CybersecLearning/blob/master/MalwareLabSetup.pdf)
@@ -161,22 +159,14 @@
 * http://the* gi* diet.org/lowgifoods/
 * https://www.examtopics.com/exams/comptia/
 * https://www.studocu.com/en (lecture notes for diff courses)
-* University notes (CS* centered) -ttps://github.com/alptheexplorer/epflLectureNotes
+* University notes (CS-centered) -ttps://github.com/alptheexplorer/epflLectureNotes
 * Wiki's Educational Resource Corner -https://en.wikiversity.org/wiki/Wikiversity:Main_Page
 * Open source (free online version) txtbooks -https://openstax.org/
-
 * Open source degrees * https://github.com/ossu/
-
-* Google resource doc by netsecfocus * https://docs.google.com/spreadsheets/d/12bT8APhWsL* P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/htmlview#
-
-* Udemy courses * http://freecoursesite.com
-
-* College books * https://m.imgur.com/gallery/y7KXKyG
-
-* Awesome Note Taking Software * https://linuxconfig.org/how* to* install* latex* on* ubuntu* 18* 04* bionic* beaver* linux
-
-* Hacking Resources * https://github.com/Hack* with* Github/Awesome* Hacking
-
-* MIT Open Courseware * https://ocw.mit.edu/courses/electrical* engineering* and* computer* science/6* 858* computer* systems* security* fall* 2014/ (video lectures, lecture notes, etc)
-
-* OSINT related podcasts * https://www.learnallthethings.net/creepyosint
+* [Google resource doc by netsecfocus](https://docs.google.com/spreadsheets/d/12bT8APhWsLP8mBtWCYu4MLftwG1cPmIL25AEBtXDno/htmlview#]
+* [Udemy courses](http://freecoursesite.com)
+* [College books](https://m.imgur.com/gallery/y7KXKyG)
+* [Awesome Note Taking Software](https://linuxconfig.org/how-to-install-latex-on-ubuntu-18-04-bionic-beaver-linux)
+* [Hacking Resources](https://github.com/Hack-with-Github/Awesome-Hacking)
+* [MIT Open Courseware](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-858-computer-systems-security-fall-2014/)
+* [OSINT related podcasts](https://www.learnallthethings.net/creepyosint)
