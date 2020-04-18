@@ -146,6 +146,7 @@
 * [RE book 1k pages](https://torus.company/9f0911c0a4bb7d20eb8bab286a2c109fa85c44c6/RE4B-EN.pdf)
 * [Malware samples zetsler](https://zeltser.com/malware-sample-sources/)
 * [Assembly course - text](https://revers.engineering/applied-re-accelerated-assembly-p1/)
+* [RE book 1k pages](https://torus.company/9f0911c0a4bb7d20eb8bab286a2c109fa85c44c6/RE4B-EN.pdf)
 
 ## Privacy-Oriented Alternatives To Software
 * [Prism break](https://prism-break.org/en/categories/)
