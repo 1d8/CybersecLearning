@@ -111,17 +111,18 @@
 * https://www.github.com/vaib25vicky/awesome-mobile-security
 
 ## Reverse Engineering Resources
-* https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/
-* https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/
-* https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/
-* https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/
-* https://malwareunicorn.org/#/resources
+* [Windbg cmds cheatsheet](http://www.windbg.info/doc/1-common-cmds.html)
+* [NY RE slides part 1](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/)
+* [NY RE slides part 2](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
+* [Getting started](https://www.reddit.com/r/ReverseEngineering/comments/12ajwc/how_to_start_out_in_reverse_engineering/)
+* [Exploit dev learning roadmap](https://www.reddit.com/r/ExploitDev/comments/7zdrzc/exploit_development_learning_roadmap/)
+* [Malware unicorn resources](https://malwareunicorn.org/#/resources)
 * https://torus.company/writings/RE4B-EN.pdf
 * https://tuts4you.com/download/2876/
-* https://godbolt.org/ (online IDE with assembly output side-by-side)
+* [online IDE with assembly output & C side-by-side](https://godbolt.org/)
 * https://0xevilc0de.com/category/video-series/
 * https://www.youtube.com/user/jstrosch
-* https://github.com/ivRodriguezCA/RE-IOS-Apps
+* [REing IOS apps](https://github.com/ivRodriguezCA/RE-IOS-Apps)
 * [GDB cheatsheet](https://darkdust.net/files/GDB%20Cheat%20Sheet.pdf)
 * https://www.megabeets.net/
 * https://gist.github.com/jarun/ea47cc31f1b482d5586138472139d090
