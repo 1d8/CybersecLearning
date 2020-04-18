@@ -17,159 +17,100 @@
 * [NSA Python course](https://nsa.sfo2.digitaloceanspaces.com/comp3321.pdf)
 
 ## Operating System Books
-*Linux Firewalls: Attack Detection & Response w/iptables, psad, & fwsnort
-*How Linux Works: What Every Superuser Should Know
-*Absolute FreeBSD: The Complete Guide to FreeBSD
-*Modern Operating Systems
+* Linux Firewalls: Attack Detection & Response w/iptables, psad, & fwsnort
+* How Linux Works: What Every Superuser Should Know
+* Absolute FreeBSD: The Complete Guide to FreeBSD
+* Modern Operating Systems
 
 ## Pentesting Books
-*Hands on Pentesting w/Python
-*Kali Linux Revealed
-*CEH Certification books
-*Understanding Network Hacks: Attack & Defenses w/Python
-*Web Application Hacker's Handbook: Finding & Exploiting Security Flaws
-*Hands on Penetration Testing
-*Kali Linux Web Penetration Testing
-*Hands on Red Team Tactics
-*Hands on AWS Penetration Testing w/Kali Linux
-*Learning Windows Penetration Testing using Kali Linux
-*Mobile Application Hacker's Handbook
+* Hands on Pentesting w/Python
+* Kali Linux Revealed
+* CEH Certification books
+* Understanding Network Hacks: Attack & Defenses w/Python
+* Web Application Hacker's Handbook: Finding & Exploiting Security Flaws
+* Hands on Penetration Testing
+* Kali Linux Web Penetration Testing
+* Hands on Red Team Tactics
+* Hands on AWS Penetration Testing w/Kali Linux
+* Learning Windows Penetration Testing using Kali Linux
+* Mobile Application Hacker's Handbook
 
 ## Defensive Security Books
-*Computer Security [art & science]
-*Cybersecurity for Beginners 2nd Edition
-*Practical Cyber Intelligence
-*Security Operations Analyst
-*Blue Team Field Manual
-*Defensive Security Handbook
-*Practical Malware Analysis
+* Computer Security [art & science]
+* Cybersecurity for Beginners 2nd Edition
+* Practical Cyber Intelligence
+* Security Operations Analyst
+* Blue Team Field Manual
+* Defensive Security Handbook
+* Practical Malware Analysis
 
 
 
 ## Technical Readings
-* https://github.com/ctfs/write* ups* 2014
-
-* https://null* byte.wonderhowto.com/how* to/exploit* development* everything* you* need* know* 0167801/
-
+* [2014 CTF writeups](https://github.com/ctfs/write-ups-2014)
+* [Learning Exploit dev](https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/)
 * https://philippeharewood.com/
-
 * https://docs.splunk.com/Documentation/Splunk/8.0.1/Data/Configuredatetimexml
-
-* https://www.routerfreak.com/top* 10* certifications* network* engineers/
-
-* https://community.turgensec.com/ssh* hacking* guide/
-
-* https://objective* see.com/blog/blog_0x52.html
-
-* https://securityaffairs.co/wordpress/77442/hacking/weaponized* microsoft* office* documents.html
-
+* [Network engineer certs](https://www.routerfreak.com/top-10-certifications-network-engineers/)
+* https://community.turgensec.com/ssh-hacking-guide/
+* https://objective-see.com/blog/blog_0x52.html
+* https://securityaffairs.co/wordpress/77442/hacking/weaponized-microsoft-office-documents.html
 * github.com/rednaga/training
-
-* github.com/strazzere/android* unpacker/blob/master/AHPL0.pdf
-
-* github.com/strazzere/anti* emulator/tree/master/slides
-
+* github.com/strazzere/android-unpacker/blob/master/AHPL0.pdf
+* github.com/strazzere/anti-emulator/tree/master/slides
 * droidsec.org/wiki/#whitepapers
-
 * androidcracking.blogspot.com
+*unicorn-engine.org
 
-* unicorn* engine.org
-
-
-<h1>Networking Books</h1>
-
+## Networking Books
 * The Art of Network Architecture: Business* Driven Design (Networking Technology) 1st Edition
 
-
-
-<h1>Cybersec Story Books</h1>
-
-* At War [Shane Harris]
-
-* Tribe of Hackers
-
+## Cybersec Story Books
+* At War - Shane Harris
+*Tribe of Hackers
 * Dark Territory
-
 * Hacker's Heroes of the Computer Revolution
-
 * Cyberwar The Next Threat to National Security & What to do About It
-
 * Hackers & Painters: The Ideas From the Digital Age
 
-
-
-<h1>Cryptocurrency Books</h1>
+## Cryptocurrency Books
 * Bitcoin & Cryptocurrency Technologies
 
-
-<h1>Online Learning Resources</h1>
+## Online Learning Resources
 
 * https://www.classcentral.com/
-
 * https://docs.google.com/spreadsheets/d/1dwSMIAPIam0PuRBkCiDI88pU3yzrqqHkDtBngUHNCw8/htmlview#
-
 * https://github.com/sushilshinde/ebooks
-
 * https://tutorials.cyberaces.org/tutorials.html
-
 * https://github.com/bugcrowd/bugcrowd_university
-
 * https://github.com/bkimminich/juice* shop
-
 * https://explainshell.com/
-
 * https://www.reddit.com/r/netsec/wiki/start#wiki_full_online_courses
-
 * https://clark.center/
-
-* https://www.enisa.europa.eu/topics/trainings* for* cybersecurity* specialists/online* training* material/technical* operational
-
+* https://www.enisa.europa.eu/topics/trainings-for-cybersecurity-specialists/online-training-material/technical-operational
 * https://open.edu/openlearn/
 
-
-
-<h1>Hardware Resources</h1>
-
+## Hardware Resources
 * https://github.com/virtualabs/btlejack
-
 * https://www.fcc.gov/oet/ea/fccid
-
 * https://samy.pl/
-
-* https://www.simform.com/iot* bluetooth* security* vulnerabilities/
-
+* https://www.simform.com/iot-bluetooth-security-vulnerabilities/
 * Black Hat Physical Device Security: Exploiting Hardware and Software
-
-
-
-<h1>Pentesting Online Resources</h1>
-
-* https://www.exploit* db.com/
-
+ 
+## Pentesting Online Resources
+* https://www.exploit-db.com/
 * https://www.cvedetails.com/
-
 * https://gchq.github.io/CyberChef/
-
 * https://www.immuniweb.com/websec/#latest
-
-* https://www.irongeek.com/xss* sql* injection* fuzzing* barcode* generator.php
-
+* https://www.irongeek.com/xss-sql-injection-fuzzing-barcode-generator.php
 * https://github.com/hfiref0x/UACME
+* https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack
+* https://github.com/enaqx/awesome-pentest
 
-* https://github.com/Kabot/Unix* Privilege* Escalation* Exploits* Pack
+## Mobile Security Resources
+* https://www.github.com/vaib25vicky/awesome-mobile-security
 
-* https://github.com/enaqx/awesome* pentest
-
-
-
-<h1>Mobile Security Resources</h1>
-
-* https://www.github.com/vaib25vicky/awesome* mobile* security
-
-
-
-<h1>Reverse Engineering Resources</h1>
-
+## Reverse Engineering Resources
 * https://prezi.com/a5tm* lf0879* /reverse* engineering* 101* nyupoly* 2010/
 
 * https://prezi.com/e5a2tumdqocj/reverse* engineering* 102* nyupoly* 2010/
@@ -244,35 +185,23 @@
 
 * Assembly course (text): https://revers.engineering/applied* re* accelerated* assembly* p1/
 
-<h1>Privacy* Oriented Alternatives To Software</h1>
-
-* https://prism* break.org/en/categories/
-
+## Privacy-Oriented Alternatives To Software
+* https://prism-break.org/en/categories/
 
 
-<h1>Misc.</h1>
 
+## Misc.
 * https://www.gnu.org/software/pspp/ (IBM SPSS's Alternative)
-
 * https://digitaldefynd.com/best* it* support* courses* certification* training/
-
 * https://openlibrary.org/
-
 * https://application.security/free* application* security* training
-
 * https://www.wikihow.com/Move* from* Windows* to* Linux
-
 * http://the* gi* diet.org/lowgifoods/
-
 * https://www.examtopics.com/exams/comptia/
-
 * https://www.studocu.com/en (lecture notes for diff courses)
-
-* University notes (CS* centered) * https://github.com/alptheexplorer/epflLectureNotes
-
-* Wiki's Educational Resource Corner * https://en.wikiversity.org/wiki/Wikiversity:Main_Page
-
-* Open source (free online version) txtbooks * https://openstax.org/
+* University notes (CS* centered) -ttps://github.com/alptheexplorer/epflLectureNotes
+* Wiki's Educational Resource Corner -https://en.wikiversity.org/wiki/Wikiversity:Main_Page
+* Open source (free online version) txtbooks -https://openstax.org/
 
 * Open source degrees * https://github.com/ossu/
 
