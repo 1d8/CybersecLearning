@@ -1,6 +1,5 @@
 ***
 # Reverse Engineering w/Ghidra
-## Pluralsight Course
 ***
 ## Module 3
 * tools are plugins & their configs (you interact w/these through the tool chest)
@@ -28,7 +27,7 @@ in listing window will highlight every instance of that mnemonic
 * the symbol tree allows for exploration of imports, exports & functions
 * Ghidra also allows for managing external programs, which means you can add additional programs (libraries such as user32.dll, etc) the program depends on, you'd need to add these libraries to your project
 * functions can be created, and edited. Editing includes changing: parameter types, calling conventions, undefining functions, etc
-# ![](/home/n9/study/cybernotes/functionediting.png) 
+# ![](https://github.com/1d8/CybersecLearning/blob/master/imgs/functionediting.png) 
 * symbols can be added, usually in the form of PDB files, but with malware this is rare but when working with programs that rely on Microsoft code this can help identify when calls to Microsoft libraries are made within the program
 
 ## Module 5
