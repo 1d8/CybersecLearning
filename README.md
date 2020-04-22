@@ -35,6 +35,15 @@
 * Learning Windows Penetration Testing using Kali Linux
 * Mobile Application Hacker's Handbook
 * [Pentest blog](https://www.hackingarticles.in/penetration-testing/)
+* https://www.exploit-db.com/
+* https://www.cvedetails.com/
+* https://gchq.github.io/CyberChef/
+* https://www.immuniweb.com/websec/#latest
+* https://www.irongeek.com/xss-sql-injection-fuzzing-barcode-generator.php
+* https://github.com/hfiref0x/UACME
+* https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack
+* https://github.com/enaqx/awesome-pentest
+
 
 ## Defensive Security Books
 * Computer Security [art & science]
@@ -68,7 +77,7 @@
 
 ## Cybersec Story Books
 * At War - Shane Harris
-*Tribe of Hackers
+* Tribe of Hackers
 * Dark Territory
 * Hacker's Heroes of the Computer Revolution
 * Cyberwar The Next Threat to National Security & What to do About It
@@ -97,21 +106,11 @@
 * https://samy.pl/
 * https://www.simform.com/iot-bluetooth-security-vulnerabilities/
 * Black Hat Physical Device Security: Exploiting Hardware and Software
- 
-## Pentesting Online Resources
-* https://www.exploit-db.com/
-* https://www.cvedetails.com/
-* https://gchq.github.io/CyberChef/
-* https://www.immuniweb.com/websec/#latest
-* https://www.irongeek.com/xss-sql-injection-fuzzing-barcode-generator.php
-* https://github.com/hfiref0x/UACME
-* https://github.com/Kabot/Unix-Privilege-Escalation-Exploits-Pack
-* https://github.com/enaqx/awesome-pentest
 
 ## Mobile Security Resources
 * https://www.github.com/vaib25vicky/awesome-mobile-security
 
-## Reverse Engineering Resources
+## Reverse Engineering Resources (Malware analysis resources included)
 * [Windbg cmds cheatsheet](http://www.windbg.info/doc/1-common-cmds.html)
 * [NY RE slides part 1](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/)
 * [NY RE slides part 2](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
@@ -147,6 +146,14 @@
 * [Malware samples zetsler](https://zeltser.com/malware-sample-sources/)
 * [Assembly course - text](https://revers.engineering/applied-re-accelerated-assembly-p1/)
 * [RE book 1k pages](https://torus.company/9f0911c0a4bb7d20eb8bab286a2c109fa85c44c6/RE4B-EN.pdf)
+* [Open security training](http://opensecuritytraining.info/) 
+* Practical malware analysis
+* Malware analyst's cookbook
+* Windows malware analysis essentials
+* [Malware unicorn](https://malwareunicorn.org/workshops/re101.html#0) 
+* [Malware analysis - RPISEC](https://github.com/RPISEC/Malware)
+* [theZoo malware samples](https://github.com/ytisf/theZoo)
+* [Fireeye yearly REing CTF](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
 
 ## Privacy-Oriented Alternatives To Software
 * [Prism break](https://prism-break.org/en/categories/)
