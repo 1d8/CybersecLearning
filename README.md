@@ -150,7 +150,7 @@
 * Practical malware analysis
 * Malware analyst's cookbook
 * Windows malware analysis essentials
-* [Malware unicorn](https://malwareunicorn.org/workshops/re101.html#0) 
+* [Malware unicorn workshop](https://malwareunicorn.org/workshops/re101.html#0) 
 * [Malware analysis - RPISEC](https://github.com/RPISEC/Malware)
 * [theZoo malware samples](https://github.com/ytisf/theZoo)
 * [Fireeye yearly REing CTF](https://www.fireeye.com/blog/threat-research/2017/10/2017-flare-on-challenge-solutions.html)
