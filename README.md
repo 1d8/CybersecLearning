@@ -1,6 +1,6 @@
 # Resource dump for learning cybersec related concepts
 
-(Security certification progression chart 2020)[https://i.redd.it/yo33xlys53141.png]
+![Security Certification Progression Chart 2020](https://i.redd.it/yo33xlys53141.png)
 
 ## Coding books & courses
 * Python Data Science Handbook
