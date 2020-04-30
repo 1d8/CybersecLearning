@@ -56,6 +56,7 @@
 * [Red team blog](https://lockboxx.blogspot.com/)
 * [Bugcrowd university webapp course](https://github.com/bugcrowd/bugcrowd_university)
 * [Onlycybersecurity, ethical hacking tutorials/readings](https://www.onlycybersecurity.com/)
+* [GTFOBins - help with privesc](https://gtfobins.github.io/)
 
 ## Defensive Security Books
 * Computer Security [art & science]
