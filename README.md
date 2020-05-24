@@ -2,6 +2,23 @@
 
 ![Security Certification Progression Chart 2020](https://i.redd.it/yo33xlys53141.png)
 
+
+1. [Coding Books & Courses](https://github.com/1d8/CybersecLearning#coding-books--courses)
+2. [OS books](https://github.com/1d8/CybersecLearning#operating-system-books)
+3. [Pentesting Resources](https://github.com/1d8/CybersecLearning#pentesting-resources)
+4. [Defensive Security Books](https://github.com/1d8/CybersecLearning#defensive-security-books)
+5. [Technical Resources](https://github.com/1d8/CybersecLearning#technical-readings)
+6. [Computer Forensics Resources](https://github.com/1d8/CybersecLearning#computer-forensics)
+7. [Networking Resources](https://github.com/1d8/CybersecLearning#networking-books)
+8. [Cybersec Story Style Books](https://github.com/1d8/CybersecLearning#cybersec-story-books)
+9. [Cryptocurrency Books](https://github.com/1d8/CybersecLearning#cryptocurrency-books)
+10. [Online Learning Resources](https://github.com/1d8/CybersecLearning#online-learning-resources)
+11. [Hardware Resources](https://github.com/1d8/CybersecLearning#hardware-resources)
+12. [Mobile Security Resources](https://github.com/1d8/CybersecLearning#mobile-security-resources)
+13. [Reverse Engineering - Malware Analysis Included](https://github.com/1d8/CybersecLearning#reverse-engineering-resources-malware-analysis-resources-included)
+14. [Privacy-Oriented Alternatives to Software](https://github.com/1d8/CybersecLearning#privacy-oriented-alternatives-to-software)
+15. [Misc.](https://github.com/1d8/CybersecLearning#misc)
+
 ## Coding books & courses
 * Python Data Science Handbook
 * Python Machine Learning
