@@ -20,10 +20,6 @@
 15. [Misc.](https://github.com/1d8/CybersecLearning#misc)
 16. [Windows resources](https://github.com/1d8/CybersecLearning/blob/master/README.md#windows-books)
 
-# Resource dump for learning cybersec related concepts
-
-(Security certification progression chart 2020)[https://i.redd.it/yo33xlys53141.png]
-
 ## Coding books & courses
 
 * Python Data Science Handbook
