@@ -18,7 +18,7 @@
 13. [Reverse Engineering - Malware Analysis Included](https://github.com/1d8/CybersecLearning#reverse-engineering-resources-malware-analysis-resources-included)
 14. [Privacy-Oriented Alternatives to Software](https://github.com/1d8/CybersecLearning#privacy-oriented-alternatives-to-software)
 15. [Misc.](https://github.com/1d8/CybersecLearning#misc)
-16. [Windows resources]()
+16. [Windows resources](https://github.com/1d8/CybersecLearning/blob/master/README.md#windows-books)
 
 # Resource dump for learning cybersec related concepts
 
