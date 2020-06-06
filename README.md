@@ -54,7 +54,7 @@
 * [Operating systems: 3 easy pieces](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=sr_1_1?dchild=1&keywords=Operating+Systems%3A+Three+Easy+Pieces&qid=1591410786&sr=8-1)
 * [How Linux Works](https://www.amazon.com/How-Linux-Works-2nd-Superuser/dp/1593275676/ref=sr_1_1?dchild=1&keywords=How+Linux+Works&qid=1591410842&sr=8-1)
 * [The Linux Bible](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1119578884/ref=sr_1_1?dchild=1&keywords=The+Linux+Bible%3A&qid=1591410897&sr=8-1)
-* Unix & Linux sysadmin](https://www.amazon.com/Evi-Nemeth/dp/0134277554/ref=sr_1_2?dchild=1&keywords=Unix+and+Linux+System+Administration+Handbook%3A&qid=1591410920&sr=8-2)
+* [Unix & Linux sysadmin](https://www.amazon.com/Evi-Nemeth/dp/0134277554/ref=sr_1_2?dchild=1&keywords=Unix+and+Linux+System+Administration+Handbook%3A&qid=1591410920&sr=8-2)
 * [Linux Programming Interface](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200/ref=sr_1_2?dchild=1&keywords=Linux+Programming+Interface%3A&qid=1591410946&sr=8-2)
 * [Build Linux distro from scratch](http://www.linuxfromscratch.org/)
 * [Linux internals simplified](https://www.amazon.com/Linux-Internals-Simplified-beginners-guide-ebook/dp/B087ZKXGRC/ref=sr_1_1?dchild=1&keywords=Linux+internals+simplified&qid=1591411012&sr=8-1)
