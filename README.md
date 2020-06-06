@@ -4,7 +4,7 @@
 
 
 1. [Coding Books & Courses](https://github.com/1d8/CybersecLearning#coding-books--courses)
-2. [OS books](https://github.com/1d8/CybersecLearning#operating-system-books)
+2. [Linux resources](https://github.com/1d8/CybersecLearning#operating-system-books)
 3. [Pentesting Resources](https://github.com/1d8/CybersecLearning#pentesting-resources)
 4. [Defensive Security Books](https://github.com/1d8/CybersecLearning#defensive-security-books)
 5. [Technical Resources](https://github.com/1d8/CybersecLearning#technical-readings)
@@ -18,8 +18,14 @@
 13. [Reverse Engineering - Malware Analysis Included](https://github.com/1d8/CybersecLearning#reverse-engineering-resources-malware-analysis-resources-included)
 14. [Privacy-Oriented Alternatives to Software](https://github.com/1d8/CybersecLearning#privacy-oriented-alternatives-to-software)
 15. [Misc.](https://github.com/1d8/CybersecLearning#misc)
+16. [Windows resources]()
+
+# Resource dump for learning cybersec related concepts
+
+(Security certification progression chart 2020)[https://i.redd.it/yo33xlys53141.png]
 
 ## Coding books & courses
+
 * Python Data Science Handbook
 * Python Machine Learning
 * Python for Finance
@@ -38,15 +44,33 @@
 * [List of free coding books](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md)
 * [Various python concepts](https://www.pythonprogramming.net/)
 * [How to solve it, get you thinking in terms of alogrithms](https://www.amazon.com/How-Solve-Aspect-Mathematical-Method-ebook/dp/B0073X0IOA/ref=sr_1_1?dchild=1&keywords=how+to+solve+it&qid=1587586334&sr=8-1)
+* [C programming manual Kerninghan & Ritchie](https://hikage.freeshell.org/books/theCprogrammingLanguage.pdf)
 
-## Operating System Books
+## Linux Books
+
 * Linux Firewalls: Attack Detection & Response w/iptables, psad, & fwsnort
 * How Linux Works: What Every Superuser Should Know
 * Absolute FreeBSD: The Complete Guide to FreeBSD
 * Modern Operating Systems
 * [AT&T archives - Unix OS](https://www.youtube.com/watch?v=tc4ROCJYbm0)
+* [Explain Shell - explains different shell cmds](https://explainshell.com/)
+* [Linux journey](https://linuxjourney.com/)
+* [Operating systems: 3 easy pieces](https://www.amazon.com/Operating-Systems-Three-Easy-Pieces/dp/198508659X/ref=sr_1_1?dchild=1&keywords=Operating+Systems%3A+Three+Easy+Pieces&qid=1591410786&sr=8-1)
+* [How Linux Works](https://www.amazon.com/How-Linux-Works-2nd-Superuser/dp/1593275676/ref=sr_1_1?dchild=1&keywords=How+Linux+Works&qid=1591410842&sr=8-1)
+* [The Linux Bible](https://www.amazon.com/Linux-Bible-Christopher-Negus/dp/1119578884/ref=sr_1_1?dchild=1&keywords=The+Linux+Bible%3A&qid=1591410897&sr=8-1)
+* Unix & Linux sysadmin](https://www.amazon.com/Evi-Nemeth/dp/0134277554/ref=sr_1_2?dchild=1&keywords=Unix+and+Linux+System+Administration+Handbook%3A&qid=1591410920&sr=8-2)
+* [Linux Programming Interface](https://www.amazon.com/Linux-Programming-Interface-System-Handbook/dp/1593272200/ref=sr_1_2?dchild=1&keywords=Linux+Programming+Interface%3A&qid=1591410946&sr=8-2)
+* [Build Linux distro from scratch](http://www.linuxfromscratch.org/)
+* [Linux internals simplified](https://www.amazon.com/Linux-Internals-Simplified-beginners-guide-ebook/dp/B087ZKXGRC/ref=sr_1_1?dchild=1&keywords=Linux+internals+simplified&qid=1591411012&sr=8-1)
+
+## Windows Books
+
+* [Win internals](https://www.amazon.com/Windows-Internals-Part-architecture-management/dp/0735684189/ref=sr_1_1?dchild=1&keywords=windows+internals&qid=1591411119&sr=8-1)
+* [Intro to winapi with C](http://zetcode.com/gui/winapi/)
+* [Winapi coding with C](http://www.winprog.org/tutorial/start.html)
 
 ## Pentesting Resources
+
 * Hands on Pentesting w/Python
 * Kali Linux Revealed
 * CEH Certification books
@@ -73,9 +97,9 @@
 * [Red team blog](https://lockboxx.blogspot.com/)
 * [Bugcrowd university webapp course](https://github.com/bugcrowd/bugcrowd_university)
 * [Onlycybersecurity, ethical hacking tutorials/readings](https://www.onlycybersecurity.com/)
-* [GTFOBins - help with privesc](https://gtfobins.github.io/)
 
 ## Defensive Security Books
+
 * Computer Security [art & science]
 * Cybersecurity for Beginners 2nd Edition
 * Practical Cyber Intelligence
@@ -85,6 +109,7 @@
 * Practical Malware Analysis
 
 ## Technical Readings
+
 * [2014 CTF writeups](https://github.com/ctfs/write-ups-2014)
 * [Learning Exploit dev](https://null-byte.wonderhowto.com/how-to/exploit-development-everything-you-need-know-0167801/)
 * https://philippeharewood.com/
@@ -103,18 +128,24 @@
 * [Abusing HTTP Path Normalization and Cache Poisoning to steal Rocket League accounts](https://samcurry.net/abusing-http-path-normalization-and-cache-poisoning-to-steal-rocket-league-accounts/)
 * [Osint investigation: Cerberus & the INPS](https://bushidotoken.blogspot.com/2020/04/osint-investigation-cerberus-and-inps.html)
 * [Tearing down Android Stalkerware](https://traced.app/2020/02/22/in-the-wild-stalkerware-analysis-mobile-tracker-free/)
+* [Notwannasigh CTF Writeup](https://um.wtf/articles/04-notwannasigh-wpictf-2020-writeup.html)
 
 ## Computer Forensics
+
 * [images to analyze](https://aboutdfir.com/resources/tool-testing/]
 * [more images to analyze](https://www.dfir.training/resources/downloads/ctf-forensic-test-images)
 * [Linux forensics material by Hal Pomeranz, 32gb, contains lab VM](https://ia801406.us.archive.org/6/items/HalLinuxForensics/HalLinuxForensics_archive.torrent)
 * [File system forensics](https://www.amazon.com/System-Forensic-Analysis-Brian-Carrier/dp/0321268172#ace-g8881249860)
 * [HTB Shocker walkthrough](https://medium.com/@RainSec/shocker-a-htb-walkthrough-576dcf87092e)
+* [linux forensics course](https://archive.org/details/HalLinuxForensics/page/n4/mode/2up)
 
 ## Networking Books
+
 * The Art of Network Architecture: Business* Driven Design (Networking Technology) 1st Edition
+* [The Practice of network security monitoring](https://www.amazon.com/Practice-Network-Security-Monitoring-Understanding/dp/1593275099/ref=sr_1_2?dchild=1&keywords=network+security+monitoring&qid=1591411186&sr=8-2)
 
 ## Cybersec Story Books
+
 * At War - Shane Harris
 * Tribe of Hackers
 * Dark Territory
@@ -129,6 +160,7 @@
 * [The Cybersecurity canon - "hall of fame" for cybersec books](https://cybercanon.paloaltonetworks.com/)
 
 ## Cryptocurrency Books
+
 * Bitcoin & Cryptocurrency Technologies
 
 ## Online Learning Resources
@@ -152,6 +184,7 @@
 * [How to rob a bank](https://pastebin.com/raw/8rXhtqgr)
 
 ## Hardware Resources
+
 * https://github.com/virtualabs/btlejack
 * https://www.fcc.gov/oet/ea/fccid
 * https://samy.pl/
@@ -159,9 +192,11 @@
 * Black Hat Physical Device Security: Exploiting Hardware and Software
 
 ## Mobile Security Resources
+
 * https://www.github.com/vaib25vicky/awesome-mobile-security
 
 ## Reverse Engineering Resources (Malware analysis resources included)
+
 * [Windbg cmds cheatsheet](http://www.windbg.info/doc/1-common-cmds.html)
 * [NY RE slides part 1](https://prezi.com/a5tm-lf0879-/reverse-engineering-101-nyupoly-2010/)
 * [NY RE slides part 2](https://prezi.com/e5a2tumdqocj/reverse-engineering-102-nyupoly-2010/)
@@ -211,11 +246,21 @@
 * [The self-organizing Computer course](https://www.youtube.com/watch?v=iE7YRHxwoDs)
 * [Attacking network protocols](https://www.amazon.com/Attacking-Network-Protocols-Analysis-Exploitation/dp/1593277504)
 * [Reverse engineering protocols](https://jhalon.github.io/reverse-engineering-protocols/)
+* [Binary deobfuscation](https://github.com/malrev/ABD/blob/master/README.md)
+* [Intro to assembly](https://revers.engineering/applied-re-accelerated-assembly-p1/)
+* [Configuring inetsim - should configure this with apateDNS](https://techanarchy.net/blog/installing-and-configuring-inetsim)
+* [objective-see - live malware samples](https://objective-see.com/malware.html)
+* [malshare - live malware samples](https://malshare.com/)
+* [malware writeups + samples](https://contagiodump.blogspot.com/)
+* [Malware writeups](https://malware.dontneedcoffee.com/blog/)
+* [dasmalwrk - live malware samples](https://www.dasmalwerk.eu/)
 
 ## Privacy-Oriented Alternatives To Software
+
 * [Prism break](https://prism-break.org/en/categories/)
 
 ## Misc.
+
 * [Different cybersec learning pathways](https://twitter.com/Fox0x01/status/1238636233649250304)
 * https://www.gnu.org/software/pspp/ (IBM SPSS's Alternative)
 * https://digitaldefynd.com/best-it-support-courses-certification-training/
@@ -238,3 +283,8 @@
 * [OSINT related podcasts](https://www.learnallthethings.net/creepyosint)
 * [Beginner probability book](https://www.amazon.com/Probability-Enthusiastic-Beginner-David-Morin-ebook/dp/B06XJSHWCX/ref=sr_1_3?dchild=1&keywords=probability+for+the+enthusiastic+beginner&qid=1587585724&sr=8-3)
 * [Probability & statistics](https://www.amazon.com/Probability-Statistics-Morris-H-DeGroot-ebook/dp/B005H8DAXY/ref=sr_1_1?dchild=1&keywords=DeGroot+and+Schervish&qid=1587585781&sr=8-1)
+* [College textbooks](https://m.imgur.com/gallery/y7KXKyG)
+* [List of cybersec resources](https://docs.google.com/spreadsheets/d/12bT8APhWsL-P8mBtWCYu4MLftwG1cPmIL25AEBtXDno/htmlview#)
+* [Oracle certification](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html)
+* [Windows 7 ISO](https://pcriver.com/operating-systems/windows-xp-professional-iso-download.html)
+* [Old school OS imgs](https://winworldpc.com)
