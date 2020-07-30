@@ -19,6 +19,7 @@
 14. [Privacy-Oriented Alternatives to Software](https://github.com/1d8/CybersecLearning#privacy-oriented-alternatives-to-software)
 15. [Misc.](https://github.com/1d8/CybersecLearning#misc)
 16. [Windows resources](https://github.com/1d8/CybersecLearning/blob/master/README.md#windows-books)
+17. [Social Engineering Resources]()
 
 ## Coding books & courses
 
@@ -284,3 +285,10 @@
 * [Oracle certification](https://www.oracle.com/corporate/blog/free-certifications-oracle-oci-autonomous-033020.html)
 * [Windows 7 ISO](https://pcriver.com/operating-systems/windows-xp-professional-iso-download.html)
 * [Old school OS imgs](https://winworldpc.com)
+* [University Lecture Notes](https://lecturenotes.in/)
+
+## Social Engineering Resources
+
+* Book - No Tech Hacking
+* Book - Social Engineering: The Art of Human Hacking
+* Framework - [Social Engineering Framework](https://www.social-engineer.org/framework/general-discussion/)
